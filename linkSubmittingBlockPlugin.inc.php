@@ -1,18 +1,21 @@
 <?php
 
 /**
- * @file DevelopedByBlockPlugin.inc.php
+ * @file linkSubmitingBlockPlugin.inc.php
  *
  * Copyright (c) 2003-2009 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
+ * With contributions from:
+ * 	- 2014 Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria
+ *
  * @class linkSubmittingBlockPlugin
- * @ingroup plugins_blocks_developedBy
+ * @ingroup plugins_blocks_linkSubmiting
  *
  * @brief Class for "linkSubmitting" block plugin
  */
 
-// $Id: DevelopedByBlockPlugin.inc.php,v 1.7 2009/04/08 19:54:34 asmecher Exp $
+// $Id: linkSubmitingBlockPlugin.inc.php,v 1.7 2009/04/08 19:54:34 asmecher Exp $
 
 
 import('plugins.BlockPlugin');
